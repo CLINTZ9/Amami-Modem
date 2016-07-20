@@ -1,2 +1,3 @@
 # Amami-Modem
-Modem Files For rhine_amami (Z1 Compact)
+Modem Files For Amami(Z1 Compact) Rhine Platform
+
